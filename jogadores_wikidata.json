@@ -1,0 +1,983 @@
+[
+  {
+    "nome": "Manoel Rezende de Matos Cabral",
+    "apelido": "Nelinho",
+    "jogos": "21",
+    "gols": "6",
+    "status": "Aposentado",
+    "posicao": "Lateral",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/58/27158_20210329160228_nelinho.png"
+  },
+  {
+    "nome": "Francisco Aramburu",
+    "apelido": "Chico",
+    "jogos": "19",
+    "gols": "8",
+    "status": "Falecido",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/06/308806__20151228103420_chico.jpg"
+  },
+  {
+    "nome": "José Carlos Nepomuceno Mozer",
+    "apelido": "Carlos Mozer",
+    "jogos": "36",
+    "gols": "0",
+    "status": "Aposentado",
+    "posicao": "Zagueiro",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/16/87/11687_carlos_mozer_20250919145632.png"
+  },
+  {
+    "nome": "Ronaldo Rodrigues de Jesus",
+    "apelido": "Ronaldão",
+    "jogos": "13",
+    "gols": "1",
+    "status": "Aposentado",
+    "posicao": "Zagueiro",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/48/57848_20210402200127_ronaldao.png"
+  },
+  {
+    "nome": "Francisco das Chagas Marinho",
+    "apelido": "Marinho Chagas",
+    "jogos": "36",
+    "gols": "4",
+    "status": "Falecido",
+    "posicao": "Lateral",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/53/27153_20210330194916_marinho_chagas.png"
+  },
+  {
+    "nome": "Fagner Conserva Lemos",
+    "apelido": "Fagner",
+    "jogos": "10",
+    "gols": "0",
+    "status": "Em atividade",
+    "posicao": "Lateral",
+    "imagem": "https://cdn-img.zerozero.pt/img/planteis/new/84/09/6018409_fagner_20241228160154.jpg"
+  },
+  {
+    "nome": "Valdo Cândido de Oliveira Filho",
+    "apelido": "Valdo",
+    "jogos": "45",
+    "gols": "4",
+    "status": "Aposentado",
+    "posicao": "Meia",
+    "imagem": "https://www.ogol.com.br/img/jogadores/33/801133_med__20210709234327_valdo.jpg"
+  },
+  {
+    "nome": "João Carlos Batista Pinheiro",
+    "apelido": "Pinheiro",
+    "jogos": "17",
+    "gols": "1",
+    "status": "Falecido",
+    "posicao": "Zagueiro",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/03/22103_pri_pinheiro.jpg"
+  },
+  {
+    "nome": "João Carlos Batista Pinheiro",
+    "apelido": "Júnior",
+    "jogos": "22",
+    "gols": "1",
+    "status": "Aposentado",
+    "posicao": "Lateral",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/54/2054_20231225133103_junior.png"
+  },
+  {
+    "nome": "Antônio Carlos Zago",
+    "apelido": "Antônio Carlos",
+    "jogos": "37",
+    "gols": "3",
+    "status": "Aposentado",
+    "posicao": "Zagueiro",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/89/2989_20210428230734_antonio_carlos.png"
+  },
+  {
+    "nome": "Marcos dos Santos Assunção",
+    "apelido": "Marcos Assunção",
+    "jogos": "11",
+    "gols": "1",
+    "status": "Aposentado",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/87/787_20210331123019_marcos_assuncao.png"
+  },
+  {
+    "nome": "Dino Sani",
+    "apelido": "Dino Sani",
+    "jogos": "13",
+    "gols": "1",
+    "status": "Aposentado",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/85/14885_dino_sani.jpg"
+  },
+  {
+    "nome": "Jonas Eduardo Américo",
+    "apelido": "Edu",
+    "jogos": "42",
+    "gols": "8",
+    "status": "Aposentado",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/49/26349_20210330225648_edu.png"
+  },
+  {
+    "nome": "Marco Antônio Feliciano",
+    "apelido": "Marco Antônio",
+    "jogos": "52",
+    "gols": "1",
+    "status": "Aposentado",
+    "posicao": "Lateral",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/61/26661_20210330231318_marco_antonio.png"
+  },
+  {
+    "nome": "João Leiva Campos Filho",
+    "apelido": "Leivinha",
+    "jogos": "19",
+    "gols": "7",
+    "status": "Aposentado",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/54/27154_20210401010142_leivinha.png"
+  },
+  {
+    "nome": "José Ferreira Neto",
+    "apelido": "Craque Neto",
+    "jogos": "16",
+    "gols": "7",
+    "status": "Aposentado",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/77/21/87721_neto_20250624010446.jpg"
+  },
+  {
+    "nome": "Luis Edmundo Pereira",
+    "apelido": "Luis Pereira",
+    "jogos": "32",
+    "gols": "0",
+    "status": "Aposentado",
+    "posicao": "Zagueiro",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/49/27149_20210330202217_luis_pereira.png"
+  },
+  {
+    "nome": "Luiz Carlos Coelho Winck",
+    "apelido": "Luís Carlos Winck",
+    "jogos": "17",
+    "gols": "1",
+    "status": "Aposentado",
+    "posicao": "Lateral",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/67/33267_20210430001204_luis_carlos_winck.png"
+  },
+  {
+    "nome": "José Maria Rodrigues Alves",
+    "apelido": "Zé Maria",
+    "jogos": "45",
+    "gols": "0",
+    "status": "Aposentado",
+    "posicao": "Lateral",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/70/26670_20210401155604_ze_maria.png"
+  },
+  {
+    "nome": "Osmar Fortes Barcellos",
+    "apelido": "Tesourinha",
+    "jogos": "23",
+    "gols": "10",
+    "status": "Falecido",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/21/254721_tesourinha.jpg"
+  },
+  {
+    "nome": "Cláudio Christovam de Pinho",
+    "apelido": "Cláudio",
+    "jogos": "12",
+    "gols": "5",
+    "status": "Falecido",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/12/140212_claudio.jpg"
+  },
+  {
+    "nome": "Valdomiro Vaz Franco",
+    "apelido": "Valdomiro",
+    "jogos": "23",
+    "gols": "5",
+    "status": "Aposentado",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/57/27157_20210330213949_valdomiro.png"
+  },
+  {
+    "nome": "Joel Camargo",
+    "apelido": "Joel Camargo",
+    "jogos": "28",
+    "gols": "0",
+    "status": "Falecido",
+    "posicao": "Zagueiro",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/67/26667_20210401150600_joel_camargo.png"
+  },
+  {
+    "nome": "Antônio Lima dos Santos",
+    "apelido": "Lima",
+    "jogos": "14",
+    "gols": "4",
+    "status": "Falecido",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/44/26344_20210402022526_lima.png"
+  },
+  {
+    "nome": "Allan Marques Loureiro",
+    "apelido": "Allan",
+    "jogos": "10",
+    "gols": "0",
+    "status": "Em atividade",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/planteis/new/51/68/4515168_allan_20240815061049.jpg"
+  },
+  {
+    "nome": "Marcos Cláudio Philippe Carneiro de Mendonça",
+    "apelido": "Marcos Carneiro de Mendonça",
+    "jogos": "10",
+    "gols": "0",
+    "status": "Falecido",
+    "posicao": "Goleiro",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/56/231856_marcos.jpg"
+  },
+  {
+    "nome": "Rodolfo Barteczko",
+    "apelido": "Patesko",
+    "jogos": "15",
+    "gols": "6",
+    "status": "Falecido",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/32/20832_pri_patesko.jpg"
+  },
+  {
+    "nome": "Luiz Mesquita de Oliveira",
+    "apelido": "Luizinho",
+    "jogos": "10",
+    "gols": "4",
+    "status": "Falecido",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/60/261360_luisinho.jpg"
+  },
+  {
+    "nome": "Nilo Murtinho Braga",
+    "apelido": "Nilo",
+    "jogos": "14",
+    "gols": "10",
+    "status": "Falecido",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/23/20823_pri_nilo.jpg"
+  },
+  {
+    "nome": "Altair Gomes de Figueiredo",
+    "apelido": "Altair",
+    "jogos": "18",
+    "gols": "0",
+    "status": "Falecido",
+    "posicao": "Zagueiro",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/02/26002_20210402013341_altair.png"
+  },
+  {
+    "nome": "José Ferreira Franco",
+    "apelido": "Zequinha",
+    "jogos": "16",
+    "gols": "2",
+    "status": "Falecido",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/03/26003_20210511151604_zequinha.png"
+  },
+  {
+    "nome": "Mauro Raphael",
+    "apelido": "Maurinho",
+    "jogos": "12",
+    "gols": "4",
+    "status": "Falecido",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/11/22111_pri_maurinho.jpg"
+  },
+  {
+    "nome": "Antenor Lucas",
+    "apelido": "Brandãozinho",
+    "jogos": "16",
+    "gols": "0",
+    "status": "Falecido",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/02/22102_pri_brandaozinho.jpg"
+  },
+  {
+    "nome": "Francisco Rodrigues",
+    "apelido": "Rodrigues Tatu",
+    "jogos": "18",
+    "gols": "5",
+    "status": "Falecido",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/90/21690_pri_rodrigues.jpg"
+  },
+  {
+    "nome": "José Procópio Mendes",
+    "apelido": "Zezé Procópio",
+    "jogos": "20",
+    "gols": "0",
+    "status": "Falecido",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/61/21461_20191231025121_zeze_procopio.png"
+  },
+  {
+    "nome": "Romeu Pellicciari",
+    "apelido": "Romeu Pellicciari",
+    "jogos": "13",
+    "gols": "3",
+    "status": "Falecido",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/70/21470_pri_romeu.jpg"
+  },
+  {
+    "nome": "Luiz Trujillo",
+    "apelido": "Luizinho",
+    "jogos": "11",
+    "gols": "1",
+    "status": "Falecido",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/10/140210_luizinho.jpg"
+  },
+  {
+    "nome": "Jayme de Almeida",
+    "apelido": "Jayme de Almeida",
+    "jogos": "15",
+    "gols": "1",
+    "status": "Falecido",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/45/492945_jaime_de_almeida.jpg"
+  },
+  {
+    "nome": "Norival Pereira da Silva",
+    "apelido": "Norival",
+    "jogos": "20",
+    "gols": "1",
+    "status": "Falecido",
+    "posicao": "Zagueiro",
+    "imagem": "https://www.zerozero.pt/images/dsgn/No_Photo_00001.png"
+  },
+  {
+    "nome": "Éverton Augusto de Barros Ribeiro",
+    "apelido": "Éverton Ribeiro",
+    "jogos": "22",
+    "gols": "3",
+    "status": "Em atividade",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/66/33266_20240117110526_everton_ribeiro_1705489526.jpg"
+  },
+  {
+    "nome": "Frederico Rodrigues de Paula Santos",
+    "apelido": "Fred",
+    "jogos": "32",
+    "gols": "0",
+    "status": "Em atividade",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/59/97/155997_fred_20250721013640.png"
+  },
+  {
+    "nome": "Olegário Tolói de Oliveira",
+    "apelido": "Dudu",
+    "jogos": "13",
+    "gols": "0",
+    "status": "Falecido",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/72/145172_dudu.png"
+  },
+  {
+    "nome": "Gabriel Barbosa Almeida",
+    "apelido": "Gabigol",
+    "jogos": "18",
+    "gols": "5",
+    "status": "Em atividade",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/51/71/75171_gabriel_barbosa_20250330021018.png"
+  },
+  {
+    "nome": "Lucas Rafael Araújo Lima",
+    "apelido": "Lucas Lima",
+    "jogos": "14",
+    "gols": "2",
+    "status": "Em atividade",
+    "posicao": "Meia",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/06/67/250667_lucas_lima_20250404200131.png"
+  },
+  {
+    "nome": "Everton Sousa Soares",
+    "apelido": "Everton Cebolinha",
+    "jogos": "25",
+    "gols": "3",
+    "status": "Em atividade",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/24/84/392484_everton_20250617102306.png"
+  },
+  {
+    "nome": "Gabriel Fernando de Jesus",
+    "apelido": "Gabriel Jesus",
+    "jogos": "64",
+    "gols": "19",
+    "status": "Em atividade",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/82/64/408264_gabriel_jesus_20240817004716.png"
+  },
+  {
+    "nome": "Vinícius José Paixão de Oliveira Júnior",
+    "apelido": "Vinícius Júnior",
+    "jogos": "43",
+    "gols": "8",
+    "status": "Em atividade",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/77/37/547737_vinicius_junior_20250923225603.png"
+  },
+  {
+    "nome": "Lucas Tolentino Coelho de Lima",
+    "apelido": "Lucas Paquetá",
+    "jogos": "59",
+    "gols": "12",
+    "status": "Em atividade",
+    "posicao": "Atacante",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/77/93/477793_lucas_paqueta_20240815233627.png"
+  },
+  {
+    "nome": "Renan Augusto Lodi dos Santos",
+    "apelido": "Renan Lodi",
+    "jogos": "19",
+    "gols": "0",
+    "status": "Em atividade",
+    "posicao": "Lateral",
+    "imagem": "https://cdn-img.zerozero.pt/img/jogadores/new/96/27/529627_renan_lodi_20240910165340.png"
+  },
+  {
+  "nome":"Douglas Costa de Souza",
+  "apelido":"Douglas Costa",
+  "jogos":"31",
+  "gols":"3",
+  "status":"Em Atividade",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/49/80/74980_douglas_costa_20250102084349.png"  
+ },
+{
+   "nome":"Roberto Carlos da Silva Rocha",
+  "apelido":"Roberto Carlos",
+  "jogos":"125",
+  "gols":"12",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/10/10/1010_roberto_carlos_20250821091005.png"
+  },
+  {
+   "nome":"Orlando Peçanha de Carvalho",
+  "apelido":"Orlando Peçanha",
+  "jogos":"30",
+  "gols":"0",
+  "status":"Falecido",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/67/25867_20210506020613_orlando_pecanha.png"
+  },
+  {
+    "nome":"Raimundo Ferreira Ramos Júnior",
+  "apelido":"Júnior Baiano",
+  "jogos":"24",
+  "gols":"2",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/75/5275_20210326234528_junior_baiano.png"
+  },
+  {
+   "nome":"Ricardo Gomes Raimundo",
+  "apelido":"Ricardo Gomes",
+  "jogos":"45",
+  "gols":"5",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/49/14/14914_ricardo_gomes_20250816135204.jpg"
+  },
+  {
+    "nome":"Edmundo Alves de Souza Neto",
+  "apelido":"Edmundo",
+  "jogos":"39",
+  "gols":"10",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/52/67/5267_edmundo_20250608020022.jpg"
+  },
+  {
+    "nome":"Amarildo Tavares da Silveira",
+  "apelido":"Amarildo",
+  "jogos":"20",
+  "gols":"7",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/43/494643__20180706074836_amarildo.jpg"
+  },
+  {
+   "nome":"Dirceu José Guimarães",
+  "apelido":"Dirceu",
+  "jogos":"44",
+  "gols":"7",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/63/27163_20210303221937_dirceu.png"
+  },
+  {
+    "nome":"Fernando Luiz Roza",
+  "apelido":"Fernandinho",
+  "jogos":"53",
+  "gols":"2",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/10/12/11012_fernandinho_20250316223704.jpg"
+  },
+  {
+  "nome":"Mauro Ramos de Oliveira",
+  "apelido":"Mauro Ramos",
+  "jogos":"29",
+  "gols":"0",
+  "status":"Falecido",
+  "posicao":"Zagueiro",
+  "imagem":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Mauro_Ramos_en_1962.jpg/250px-Mauro_Ramos_en_1962.jpg"
+  },
+  {
+  "nome":"Clodoaldo Tavares Santana",
+  "apelido":"Clodoaldo",
+  "jogos":"35",
+  "gols":"1",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/60/26660_20210401115359_clodoaldo.png"
+  },
+  {
+  "nome":"Alexandro Silva de Sousa",
+  "apelido":"Dudu Cearense",
+  "jogos":"11",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/66/6366_20210402165642_dudu_cearense.png"
+  },
+  {
+   "nome":"Amílcar Barbuy",
+  "apelido":"Amílcar Barbuy",
+  "jogos":"16",
+  "gols":"5",
+  "status":"Falecido",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/33/231833_amilcar_barbuy.jpg"
+  },
+  {
+    "nome":"Rivaldo Vítor Borba Ferreira",
+  "apelido":"Rivaldo",
+  "jogos":"75",
+  "gols":"35",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/19/54/1954_rivaldo_20250123093117.jpg"
+  },
+  {
+    "nome":"Alexsandro de Souza",
+  "apelido":"Alex",
+  "jogos":"48",
+  "gols":"12",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/96/73/9673_alex_20250219125920.jpg"
+  },
+  {
+   "nome":"Jefferson de Oliveira Galvão",
+  "apelido":"Jefferson",
+  "jogos":"22",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Goleiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/51/10/5110_jefferson_20241012224921.jpg"
+  },
+  {
+    "nome":"Juvenal Amarijo",
+  "apelido":"Juvenal",
+  "jogos":"10",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/79/21679_juvenal.jpg"
+  },
+  {
+    "nome":"Júlio Botelho",
+  "apelido":"Julinho Botelho",
+  "jogos":"26",
+  "gols":"13",
+  "status":"Falecido",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/04/22104_julinho_botelho.jpg"
+  },
+  {
+    "nome":"Ronaldo Luís Nazário de Lima",
+  "apelido":"Ronaldo Fenômeno",
+  "jogos":"98",
+  "gols":"62",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/10/22/1022_ronaldo_20241012221007.jpg"
+  },
+  {
+    "nome":"Ricardo Izecson dos Santos Leite",
+  "apelido":"Kaká",
+  "jogos":"93",
+  "gols":"29",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/19/63/1963_kaka_20251012225530.png"
+  },
+  {
+    "nome":"Wilson da Silva Piazza",
+  "apelido":"Piazza",
+  "jogos":"51",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/58/26658_20210330211239_piazza.png"
+  },
+  {
+    "nome":"Sidney Colônia Cunha",
+  "apelido":"Chinesinho",
+  "jogos":"16",
+  "gols":"7",
+  "status":"Falecido",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/98/43598_chinesinho.jpg"
+  },
+  {
+    "nome":"Marcelo Gonçalves Costa Lopes",
+  "apelido":"Gonçalves",
+  "jogos":"23",
+  "gols":"1",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/84/58184_20210328202209_marcelo_goncalves.png"
+  },
+  {
+    "nome":"Carlos Roberto de Oliveira",
+  "apelido":"Roberto Dinamite",
+  "jogos":"38",
+  "gols":"19",
+  "status":"Falecido",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/64/27464_20210304013459_roberto_dinamite.png"
+  },
+  {
+    "nome":"Antônio Carlos Cerezo",
+  "apelido":"Toninho Cerezo",
+  "jogos":"73",
+  "gols":"5",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/53/27453_20210326000514_toninho_cerezo.png"
+  },
+  {
+    "nome":"Evaristo de Macedo Filho",
+  "apelido":"Evaristo de Macedo",
+  "jogos":"13",
+  "gols":"8",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/64/14864_.jpg"
+  },
+  {
+    "nome":"Cléber Américo da Conceição",
+  "apelido":"Cléber",
+  "jogos":"12",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/33/5333_20210430175339_cleber.png"
+  },
+  {
+    "nome":"José Rodrigues Neto",
+  "apelido":"Rodrigues Neto",
+  "jogos":"11",
+  "gols":"0",
+  "status":"Falecido",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/60/27460_20210329165225_rodrigues_neto.png"
+  },
+  {
+    "nome":"Júlio César da Silva",
+  "apelido":"Júlio César",
+  "jogos":"13",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/85/32685_20210327005850_julio_cesar.png"
+  },
+  {
+    "nome":"Jair da Rosa Pinto",
+  "apelido":"Jair",
+  "jogos":"39",
+  "gols":"22",
+  "status":"Falecido",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/83/21683_pri_jair.jpg"
+  },
+  {
+    "nome":"Jorge Ferreira da Silva",
+  "apelido":"Palhinha",
+  "jogos":"16",
+  "gols":"5",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/60/87160_20210429235240_palhinha.png"
+  },
+  {
+    "nome":"Danilo Alvim Faria",
+  "apelido":"Danilo Alvim",
+  "jogos":"25",
+  "gols":"2",
+  "status":"Falecido",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/74/21674_pri_danilo.jpg"
+  },
+  {
+    "nome":"Rogério Mücke Ceni",
+  "apelido":"Rogério Ceni",
+  "jogos":"17",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Goleiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/56/64/5664_rogerio_ceni_20251030141421.jpg"
+  },
+ {
+    "nome":"Alexandre da Silva Mariano",
+  "apelido":"Amaral",
+  "jogos":"12",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/31/89/13189_amaral_20250308142537.jpg"
+  },
+ {
+    "nome":"Renato Portaluppi",
+  "apelido":"Renato Gaúcho",
+  "jogos":"43",
+  "gols":"4",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/61/28361_20210329102928_renato_gaucho.png"
+  },
+  {
+    "nome":"Josimar Higino Pereira",
+  "apelido":"Josimar",
+  "jogos":"16",
+  "gols":"2",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/53/57053_20210328154544_josimar.png"
+  },
+ {
+    "nome":"Walter Casagrande Junior",
+  "apelido":"Casagrande",
+  "jogos":"19",
+  "gols":"8",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/23/7223_20210328055956_casagrande.png"
+  },
+  {
+    "nome":"Odvan Gomes da Silva",
+  "apelido":"Odvan",
+  "jogos":"11",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/46/5246_20210411224046_odvan.png"
+  },
+  {
+    "nome":"Geovani Faria da Silva",
+  "apelido":"Geovani Silva",
+  "jogos":"21",
+  "gols":"3",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/30/127830_20210430180133_geovani_silva.png"
+  },
+  {
+    "nome":"Marcos André Batista dos Santos",
+  "apelido":"Vampeta",
+  "jogos":"39",
+  "gols":"2",
+  "status":"Aposentado",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/78/3078_20231225124617_vampeta.png"
+  },
+  {
+    "nome":"Roberto Dias Branco",
+  "apelido":"Roberto Dias",
+  "jogos":"20",
+  "gols":"1",
+  "status":"Falecido",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/07/264907_roberto_dias.jpg"
+  },
+  {
+    "nome":"Philippe Coutinho Correia",
+  "apelido":"Coutinho",
+  "jogos":"68",
+  "gols":"21",
+  "status":"Em Atividade",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/44/12/74412_philippe_coutinho_20250317205100.jpg"
+  },
+  {
+    "nome":"Roberto Lopes Miranda",
+  "apelido":"Roberto Miranda",
+  "jogos":"11",
+  "gols":"6",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/63/26663_20210401102708_roberto_miranda.png"
+  },
+  {
+    "nome":"Carlos Henrique José Francisco Venancio Casimiro",
+  "apelido":"Casemiro",
+  "jogos":"80",
+  "gols":"7",
+  "status":"Em Atividade",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/56/21/95621_casemiro_20250920212010.png"
+  },
+  {
+    "nome":"Mário Peres Ulibarri",
+  "apelido":"Marinho Peres",
+  "jogos":"12",
+  "gols":"1",
+  "status":"Falecido",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/50/27150_20210401023531_marinho_peres.png"
+  },
+  {
+    "nome":"Carlos José Castilho",
+  "apelido":"Castilho",
+  "jogos":"25",
+  "gols":"0",
+  "status":"Falecido",
+  "posicao":"Goleiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/82/21682_castilho.jpg"
+  },
+  {
+    "nome":"José Carlos Bauer",
+  "apelido":"Bauer",
+  "jogos":"26",
+  "gols":"0",
+  "status":"Falecido",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/89/21689_pri_bauer.jpg"
+  },
+  {
+    "nome":"Paulo Moacir Barbosa Nascimento",
+  "apelido":"Barbosa",
+  "jogos":"20",
+  "gols":"0",
+  "status":"Falecido",
+  "posicao":"Goleiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/02/308802__20151228103419_barbosa.jpg"
+  },
+  {
+    "nome":"Hércules Brito Ruas",
+  "apelido":"Brito",
+  "jogos":"43",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/37/26337_20210401020759_brito.png"
+  },
+  {
+    "nome":"Giuliano Victor de Paula",
+  "apelido":"Giuliano",
+  "jogos":"14",
+  "gols":"0",
+  "status":"Em Atividade",
+  "posicao":"Meia",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/55/90/45590_giuliano_20250131173601.png"
+  },
+  {
+    "nome":"Túlio Humberto Pereira Costa",
+  "apelido":"Túlio Maravilha",
+  "jogos":"14",
+  "gols":"9",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/87/42587_20210701144454_tulio_maravilha_1625147094.png"
+  },
+  {
+    "nome":"Domingos Antônio da Guia",
+  "apelido":"Domingos da Guia",
+  "jogos":"25",
+  "gols":"0",
+  "status":"Falecido",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/47/21647_domingos_da_guia.jpg"
+  },
+  {
+    "nome":"Albino Friaça Cardoso",
+  "apelido":"Friaça",
+  "jogos":"12",
+  "gols":"1",
+  "status":"Falecido",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/87/21687_friaca.jpg"
+  },
+  {
+    "nome":"Evanílson Aparecido Ferreira",
+  "apelido":"Evanílson",
+  "jogos":"13",
+  "gols":"0",
+  "status":"Aposentado",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/82/3282_20210404161731_evanilson.png"
+  },
+  {
+    "nome":"Carlos Alberto Torres",
+  "apelido":"Carlos Alberto",
+  "jogos":"52",
+  "gols":"8",
+  "status":"Falecido",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/59/26659_20210401105242_carlos_alberto.png"
+  },
+  {
+    "nome":"Sérgio Bernardino",
+  "apelido":"Serginho Chulapa",
+  "jogos":"20",
+  "gols":"8",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/79/20479_20210311202006_serginho_chulapa.png"
+  },
+  {
+    "nome":"Heleno de Freitas",
+  "apelido":"Heleno",
+  "jogos":"18",
+  "gols":"14",
+  "status":"Falecido",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/33/74333_heleno_de_freitas.jpg"
+  },
+  {
+    "nome":"José Reinaldo de Lima",
+  "apelido":"Reinaldo",
+  "jogos":"37",
+  "gols":"14",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/56/27456_20210329141619_reinaldo.png"
+  },
+  {
+    "nome":"Augusto da Costa",
+  "apelido":"Augusto",
+  "jogos":"18",
+  "gols":"1",
+  "status":"Falecido",
+  "posicao":"Zagueiro",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/42/494342__20180705082048_augusto.jpg"
+  },
+  {
+  "nome":"Diego Tardelli Martins",
+  "apelido":"Diego Tardelli",
+  "jogos":"14",
+  "gols":"3",
+  "status":"Aposentado",
+  "posicao":"Atacante",
+  "imagem":"https://cdn-img.zerozero.pt/img/jogadores/new/56/83/5683_diego_tardelli_20250724121110.jpg"
+  }
+]
